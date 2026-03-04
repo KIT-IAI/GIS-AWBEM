@@ -1,6 +1,5 @@
 MIT License
 
-Copyright (c) 2026 erfantajalli
 Copyright (c) 2026 Erfan Tajalli-Ardekani, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
