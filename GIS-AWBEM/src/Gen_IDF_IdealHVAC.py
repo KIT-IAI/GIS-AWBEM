@@ -29,14 +29,7 @@ IG_profile, IG_intensity, Tset = internal_gains(IG_file_name)
 
 # ==================== Generate IDFs ==================== #
 
-# # reverse floor/roof
-# specific_OSM = ['102570241']
-
-# collinear vertices
-# specific_OSM = ['102540564']
-specific_OSM = ['59082234']
-
-generation_time = {}
+# generation_time = {}
 
 
 # check if the the IDF save folder exists
@@ -45,16 +38,11 @@ if not os.path.exists(path_save):
     os.makedirs(path_save)
 
 
-# for idx_b, osm_id in enumerate(df_geo['osm_id']):
-for osm_id in specific_OSM:
+for idx_b, osm_id in enumerate(df_geo['osm_id']):
+
     
     # sim_start = datetime.now()
     
-    # To be removed
-    idx_b = df_geo.index[df_geo['osm_id']==osm_id][0]
-
-
-
     # Round and keep the coordinations up to 9 decimals
     Bxy_coords = np.array(df_geo.loc[idx_b, 'xy_coordinates'][0])
     Bxy_coords = np.round(Bxy_coords, 9)
