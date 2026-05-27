@@ -1,10 +1,15 @@
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
+[![EnergyPlus](https://img.shields.io/badge/EnergyPlus-25.1-green)](https://energyplus.net/)
+[![Paper](https://img.shields.io/badge/Paper-IEEE-red)](https://ieeexplore.ieee.org/document/11457217)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+
+
 # GIS-AWBEM
 
 GIS-based Automated White-Box Building Energy Modeling (GIS-AWBEM) is an open-source framework for conducting district-scale building energy analysis. Starting from publicly available GIS data, the framework automatically constructs Level of Detail 1 (LOD1) 3D building models.
 
 This framework is primarily developed for urban planners, building energy analysts, energy suppliers, researchers, and scientists.
-
-<img src="img/Workflow.svg">
 
 ---
 
@@ -19,12 +24,25 @@ GIS-AWBEM was developed to address these limitations by:
 3. Using a single building energy simulator, EnergyPlus, thereby avoiding the need for multiple software integrations and interface developments
 4. Offering a modular structure that requires only minor reconfiguration for future implementations
 5. Being fully open-source, eliminating the dependency on commercial software
+---
+
+# Workflow
+
+<details>
+
+<summary><strong>GIS-AWBEM Workflow</strong></summary>
+
+<img src="img/Workflow.svg">
+
+</details>
 
 ---
 
 # Getting Started
 
-## GIS-AWBEM Installation
+<details>
+
+<summary><strong>Installation</strong></summary>
 
 Clone the repository:
 
@@ -37,6 +55,8 @@ Install the package in editable mode:
 ```bash
 pip install -e GIS-AWBEM
 ```
+
+</details>
 
 ---
 
