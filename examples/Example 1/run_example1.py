@@ -18,7 +18,7 @@ def execute():
         "mun_growth" : "stagnant",  # municipality growth: ["growing", "stagnant"]
         "mun_size" : "urban"        # municipality size: ["rural", "urban"]
         }
-    
+
     # District general configuration
     config = {
         "geo_file" : "Bergwald.geojson", # use "Bergwald_truncated.geojson" for a smaller version (with lower number of buildings)

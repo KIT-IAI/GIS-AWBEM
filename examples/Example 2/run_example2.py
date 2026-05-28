@@ -21,7 +21,7 @@ def execute():
 
     # District general configuration
     config = {
-        "geo_file" : "Bergwald_truncated.geojson",
+        "geo_file" : "Heidelberg.geojson",
         "weather_file": "Mannheim_01975.epw",
         "IG_file" : "Internal gain profiles.xlsx",
         "enrich" : enrich,
