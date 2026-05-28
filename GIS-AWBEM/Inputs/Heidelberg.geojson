@@ -1,0 +1,5449 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-27T11:18:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158524",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896099,
+              49.3727651
+            ],
+            [
+              8.6894166,
+              49.3727594
+            ],
+            [
+              8.6894205,
+              49.3727035
+            ],
+            [
+              8.6896137,
+              49.3727092
+            ],
+            [
+              8.6896117,
+              49.3727392
+            ],
+            [
+              8.6896099,
+              49.3727651
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158540",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6889429,
+              49.3727993
+            ],
+            [
+              8.6889562,
+              49.3726604
+            ],
+            [
+              8.6891262,
+              49.3726673
+            ],
+            [
+              8.6891129,
+              49.3728062
+            ],
+            [
+              8.6889429,
+              49.3727993
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158544",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.689222,
+              49.3732541
+            ],
+            [
+              8.6892101,
+              49.3733781
+            ],
+            [
+              8.6889969,
+              49.3733694
+            ],
+            [
+              8.6890088,
+              49.3732454
+            ],
+            [
+              8.689222,
+              49.3732541
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158559",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6889259,
+              49.3731761
+            ],
+            [
+              8.6889347,
+              49.3730344
+            ],
+            [
+              8.6891051,
+              49.3730389
+            ],
+            [
+              8.6890963,
+              49.3731806
+            ],
+            [
+              8.6889259,
+              49.3731761
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158573",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6895856,
+              49.3733178
+            ],
+            [
+              8.6895723,
+              49.3733174
+            ],
+            [
+              8.6894539,
+              49.373313
+            ],
+            [
+              8.6894096,
+              49.3733114
+            ],
+            [
+              8.6893745,
+              49.3733101
+            ],
+            [
+              8.6893794,
+              49.3732528
+            ],
+            [
+              8.6895905,
+              49.3732605
+            ],
+            [
+              8.6895856,
+              49.3733178
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158591",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6890657,
+              49.372298
+            ],
+            [
+              8.6892656,
+              49.3723038
+            ],
+            [
+              8.6892578,
+              49.3724177
+            ],
+            [
+              8.6891649,
+              49.372415
+            ],
+            [
+              8.6890579,
+              49.3724119
+            ],
+            [
+              8.6890614,
+              49.3723604
+            ],
+            [
+              8.6890657,
+              49.372298
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158595",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "9/1",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6891422,
+              49.3725811
+            ],
+            [
+              8.6889562,
+              49.3725763
+            ],
+            [
+              8.6889592,
+              49.3725268
+            ],
+            [
+              8.6891453,
+              49.3725317
+            ],
+            [
+              8.6891422,
+              49.3725811
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158612",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6889327,
+              49.3729931
+            ],
+            [
+              8.6889439,
+              49.3728485
+            ],
+            [
+              8.689121,
+              49.3728543
+            ],
+            [
+              8.6891098,
+              49.3729989
+            ],
+            [
+              8.6889327,
+              49.3729931
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92158614",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896116,
+              49.3730451
+            ],
+            [
+              8.6894042,
+              49.3730407
+            ],
+            [
+              8.6894071,
+              49.3729814
+            ],
+            [
+              8.6896145,
+              49.3729858
+            ],
+            [
+              8.6896116,
+              49.3730451
+            ]
+          ]
+        ]
+      },
+      "id": "way/92158614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351701",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "6/1",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6886875,
+              49.3729238
+            ],
+            [
+              8.6886853,
+              49.372976
+            ],
+            [
+              8.6884951,
+              49.372973
+            ],
+            [
+              8.6884967,
+              49.3729201
+            ],
+            [
+              8.6886875,
+              49.3729238
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351707",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6888008,
+              49.3721248
+            ],
+            [
+              8.6888144,
+              49.3720032
+            ],
+            [
+              8.688985,
+              49.3720088
+            ],
+            [
+              8.6889777,
+              49.3721238
+            ],
+            [
+              8.6889778,
+              49.3721287
+            ],
+            [
+              8.6888008,
+              49.3721248
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351715",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6907903,
+              49.3720546
+            ],
+            [
+              8.6908874,
+              49.3720575
+            ],
+            [
+              8.6908824,
+              49.3721822
+            ],
+            [
+              8.6908835,
+              49.3721862
+            ],
+            [
+              8.6907796,
+              49.3721836
+            ],
+            [
+              8.6907903,
+              49.3720546
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351719",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6887082,
+              49.3725899
+            ],
+            [
+              8.6884865,
+              49.3725824
+            ],
+            [
+              8.6884942,
+              49.3724861
+            ],
+            [
+              8.6887159,
+              49.3724936
+            ],
+            [
+              8.6887082,
+              49.3725899
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351729",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6892538,
+              49.3721422
+            ],
+            [
+              8.6892656,
+              49.3720078
+            ],
+            [
+              8.6894097,
+              49.3720103
+            ],
+            [
+              8.6894016,
+              49.3721457
+            ],
+            [
+              8.6892538,
+              49.3721422
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351731",
+        "building": "garages",
+        "capacity": "8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6889777,
+              49.3721238
+            ],
+            [
+              8.688985,
+              49.3720088
+            ],
+            [
+              8.6889913,
+              49.3719103
+            ],
+            [
+              8.6890733,
+              49.3719125
+            ],
+            [
+              8.6890596,
+              49.3721261
+            ],
+            [
+              8.6889777,
+              49.3721238
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351733",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:shape": "hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6887002,
+              49.3727357
+            ],
+            [
+              8.6884867,
+              49.3727281
+            ],
+            [
+              8.6884875,
+              49.3727181
+            ],
+            [
+              8.6884946,
+              49.3726327
+            ],
+            [
+              8.6885434,
+              49.3726344
+            ],
+            [
+              8.6887081,
+              49.3726403
+            ],
+            [
+              8.6887002,
+              49.3727357
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351741",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6886889,
+              49.3728806
+            ],
+            [
+              8.6884851,
+              49.3728744
+            ],
+            [
+              8.6884861,
+              49.3728604
+            ],
+            [
+              8.6884924,
+              49.3727722
+            ],
+            [
+              8.6885854,
+              49.372775
+            ],
+            [
+              8.6886963,
+              49.3727784
+            ],
+            [
+              8.6886889,
+              49.3728806
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93351744",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.688672,
+              49.3731975
+            ],
+            [
+              8.6884755,
+              49.3731932
+            ],
+            [
+              8.6884811,
+              49.3730854
+            ],
+            [
+              8.6885646,
+              49.3730869
+            ],
+            [
+              8.6886768,
+              49.3730889
+            ],
+            [
+              8.688672,
+              49.3731975
+            ]
+          ]
+        ]
+      },
+      "id": "way/93351744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353548",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6901344,
+              49.3730608
+            ],
+            [
+              8.6901386,
+              49.3729409
+            ],
+            [
+              8.6903315,
+              49.3729438
+            ],
+            [
+              8.6903273,
+              49.3730636
+            ],
+            [
+              8.6901344,
+              49.3730608
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353551",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:shape": "half-hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6900804,
+              49.3727706
+            ],
+            [
+              8.6898876,
+              49.3727648
+            ],
+            [
+              8.6898963,
+              49.3726419
+            ],
+            [
+              8.6900892,
+              49.3726477
+            ],
+            [
+              8.6900804,
+              49.3727706
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353560",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6899019,
+              49.3729103
+            ],
+            [
+              8.6900795,
+              49.3729145
+            ],
+            [
+              8.6900722,
+              49.3730428
+            ],
+            [
+              8.6898946,
+              49.3730386
+            ],
+            [
+              8.6899019,
+              49.3729103
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353565",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "31",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:shape": "half-hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6903462,
+              49.3727643
+            ],
+            [
+              8.6902043,
+              49.3727641
+            ],
+            [
+              8.6902049,
+              49.3726254
+            ],
+            [
+              8.6903468,
+              49.3726257
+            ],
+            [
+              8.6903462,
+              49.3727643
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353571",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.690751,
+              49.3723784
+            ],
+            [
+              8.6908696,
+              49.3723811
+            ],
+            [
+              8.6908707,
+              49.3723725
+            ],
+            [
+              8.6909453,
+              49.3723758
+            ],
+            [
+              8.6909417,
+              49.3724269
+            ],
+            [
+              8.6909373,
+              49.3724904
+            ],
+            [
+              8.6907437,
+              49.372488
+            ],
+            [
+              8.690751,
+              49.3723784
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353573",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6910793,
+              49.3723699
+            ],
+            [
+              8.6913116,
+              49.3723571
+            ],
+            [
+              8.6913277,
+              49.3724803
+            ],
+            [
+              8.6910953,
+              49.3724931
+            ],
+            [
+              8.6910793,
+              49.3723699
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353575",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6899787,
+              49.373238
+            ],
+            [
+              8.6899744,
+              49.3733622
+            ],
+            [
+              8.6898795,
+              49.3733608
+            ],
+            [
+              8.6898838,
+              49.3732366
+            ],
+            [
+              8.6899787,
+              49.373238
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353580",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6906099,
+              49.3727718
+            ],
+            [
+              8.6904197,
+              49.3727688
+            ],
+            [
+              8.6904241,
+              49.3726523
+            ],
+            [
+              8.6906142,
+              49.3726553
+            ],
+            [
+              8.6906099,
+              49.3727718
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353584",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "27",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6908762,
+              49.3728043
+            ],
+            [
+              8.6906831,
+              49.3727985
+            ],
+            [
+              8.6906942,
+              49.3726416
+            ],
+            [
+              8.6908873,
+              49.3726473
+            ],
+            [
+              8.6908773,
+              49.3727891
+            ],
+            [
+              8.6908762,
+              49.3728043
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353593",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.690902,
+              49.3730332
+            ],
+            [
+              8.6907268,
+              49.373029
+            ],
+            [
+              8.6907355,
+              49.3728748
+            ],
+            [
+              8.6909108,
+              49.3728791
+            ],
+            [
+              8.690902,
+              49.3730332
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353620",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6904054,
+              49.3730667
+            ],
+            [
+              8.6904123,
+              49.3729472
+            ],
+            [
+              8.690601,
+              49.3729518
+            ],
+            [
+              8.6905941,
+              49.3730713
+            ],
+            [
+              8.6904054,
+              49.3730667
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353627",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:shape": "half-hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6907556,
+              49.3734551
+            ],
+            [
+              8.6907709,
+              49.3732839
+            ],
+            [
+              8.690939,
+              49.3732902
+            ],
+            [
+              8.6909237,
+              49.3734615
+            ],
+            [
+              8.6907556,
+              49.3734551
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93353630",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "27",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6916735,
+              49.3724122
+            ],
+            [
+              8.6916501,
+              49.3723212
+            ],
+            [
+              8.6918261,
+              49.3723006
+            ],
+            [
+              8.6918328,
+              49.3723254
+            ],
+            [
+              8.6918511,
+              49.37239
+            ],
+            [
+              8.6916735,
+              49.3724122
+            ]
+          ]
+        ]
+      },
+      "id": "way/93353630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97282408",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "half-hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6900344,
+              49.3736298
+            ],
+            [
+              8.6898328,
+              49.3736271
+            ],
+            [
+              8.6898367,
+              49.3735002
+            ],
+            [
+              8.6900818,
+              49.3735035
+            ],
+            [
+              8.6900813,
+              49.3735166
+            ],
+            [
+              8.6900789,
+              49.3735946
+            ],
+            [
+              8.6900344,
+              49.3736298
+            ]
+          ]
+        ]
+      },
+      "id": "way/97282408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217406114",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6918561,
+              49.3726922
+            ],
+            [
+              8.6918462,
+              49.3726099
+            ],
+            [
+              8.6919337,
+              49.3726024
+            ],
+            [
+              8.691946,
+              49.3726769
+            ],
+            [
+              8.6919811,
+              49.3726764
+            ],
+            [
+              8.6919953,
+              49.3727497
+            ],
+            [
+              8.6919593,
+              49.3727514
+            ],
+            [
+              8.691963,
+              49.3727783
+            ],
+            [
+              8.6918658,
+              49.3727825
+            ],
+            [
+              8.6918667,
+              49.3728041
+            ],
+            [
+              8.6917955,
+              49.3728086
+            ],
+            [
+              8.6917905,
+              49.372765
+            ],
+            [
+              8.6917828,
+              49.3726991
+            ],
+            [
+              8.6918561,
+              49.3726922
+            ]
+          ]
+        ]
+      },
+      "id": "way/217406114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217406117",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6908967,
+              49.3736792
+            ],
+            [
+              8.6908242,
+              49.3736769
+            ],
+            [
+              8.6908249,
+              49.3736639
+            ],
+            [
+              8.6907087,
+              49.3736617
+            ],
+            [
+              8.6907178,
+              49.3735367
+            ],
+            [
+              8.6909014,
+              49.3735423
+            ],
+            [
+              8.6908967,
+              49.3736792
+            ]
+          ]
+        ]
+      },
+      "id": "way/217406117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218244752",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6903516,
+              49.3732084
+            ],
+            [
+              8.6903462,
+              49.3733594
+            ],
+            [
+              8.6901992,
+              49.3733572
+            ],
+            [
+              8.6901994,
+              49.3733529
+            ],
+            [
+              8.6901378,
+              49.373352
+            ],
+            [
+              8.6901411,
+              49.3732592
+            ],
+            [
+              8.6901936,
+              49.37326
+            ],
+            [
+              8.6901955,
+              49.373206
+            ],
+            [
+              8.6903516,
+              49.3732084
+            ]
+          ]
+        ]
+      },
+      "id": "way/218244752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655863",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "16a",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6887043,
+              49.3721888
+            ],
+            [
+              8.6887043,
+              49.3722372
+            ],
+            [
+              8.688498,
+              49.3722371
+            ],
+            [
+              8.6884981,
+              49.3721887
+            ],
+            [
+              8.6887043,
+              49.3721888
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655864",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6884965,
+              49.3724398
+            ],
+            [
+              8.6885002,
+              49.3723386
+            ],
+            [
+              8.6887324,
+              49.3723422
+            ],
+            [
+              8.6887287,
+              49.3724433
+            ],
+            [
+              8.6884965,
+              49.3724398
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655865",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6886482,
+              49.3733656
+            ],
+            [
+              8.6886449,
+              49.3734633
+            ],
+            [
+              8.6884647,
+              49.3734607
+            ],
+            [
+              8.6884679,
+              49.373363
+            ],
+            [
+              8.688546,
+              49.3733641
+            ],
+            [
+              8.6886482,
+              49.3733656
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655866",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2/1",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.688672,
+              49.3731975
+            ],
+            [
+              8.6886665,
+              49.373304
+            ],
+            [
+              8.68847,
+              49.3732997
+            ],
+            [
+              8.6884755,
+              49.3731932
+            ],
+            [
+              8.688672,
+              49.3731975
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655867",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6886834,
+              49.3730268
+            ],
+            [
+              8.6884932,
+              49.3730238
+            ],
+            [
+              8.6884951,
+              49.372973
+            ],
+            [
+              8.6886853,
+              49.372976
+            ],
+            [
+              8.6886834,
+              49.3730268
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655868",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6891422,
+              49.3725811
+            ],
+            [
+              8.6891389,
+              49.3726359
+            ],
+            [
+              8.6889528,
+              49.372631
+            ],
+            [
+              8.6889562,
+              49.3725763
+            ],
+            [
+              8.6891422,
+              49.3725811
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219655869",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "9/2",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6891453,
+              49.3725317
+            ],
+            [
+              8.6889592,
+              49.3725268
+            ],
+            [
+              8.6889624,
+              49.3724733
+            ],
+            [
+              8.6891485,
+              49.3724781
+            ],
+            [
+              8.6891453,
+              49.3725317
+            ]
+          ]
+        ]
+      },
+      "id": "way/219655869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219659638",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6899787,
+              49.373238
+            ],
+            [
+              8.6900674,
+              49.3732393
+            ],
+            [
+              8.6900632,
+              49.3733635
+            ],
+            [
+              8.6899744,
+              49.3733622
+            ],
+            [
+              8.6899787,
+              49.373238
+            ]
+          ]
+        ]
+      },
+      "id": "way/219659638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219659639",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "residential",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "half-hipped"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6900344,
+              49.3736298
+            ],
+            [
+              8.6900789,
+              49.3735946
+            ],
+            [
+              8.6900813,
+              49.3735166
+            ],
+            [
+              8.690288,
+              49.3735197
+            ],
+            [
+              8.690283,
+              49.3736579
+            ],
+            [
+              8.6901341,
+              49.3736557
+            ],
+            [
+              8.6901338,
+              49.3736643
+            ],
+            [
+              8.6900333,
+              49.3736628
+            ],
+            [
+              8.6900344,
+              49.3736298
+            ]
+          ]
+        ]
+      },
+      "id": "way/219659639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219672295",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "apartments",
+        "building:levels": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6888148,
+              49.3735984
+            ],
+            [
+              8.6888037,
+              49.373767
+            ],
+            [
+              8.6885724,
+              49.3737605
+            ],
+            [
+              8.6885835,
+              49.3735919
+            ],
+            [
+              8.6888148,
+              49.3735984
+            ]
+          ]
+        ]
+      },
+      "id": "way/219672295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219672298",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2/1",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "apartments",
+        "building:levels": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6890461,
+              49.3736049
+            ],
+            [
+              8.6890349,
+              49.3737735
+            ],
+            [
+              8.6888037,
+              49.373767
+            ],
+            [
+              8.6888148,
+              49.3735984
+            ],
+            [
+              8.6890461,
+              49.3736049
+            ]
+          ]
+        ]
+      },
+      "id": "way/219672298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219672300",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "apartments",
+        "building:levels": "5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6892773,
+              49.3736114
+            ],
+            [
+              8.6892662,
+              49.37378
+            ],
+            [
+              8.6890349,
+              49.3737735
+            ],
+            [
+              8.6890461,
+              49.3736049
+            ],
+            [
+              8.6892391,
+              49.3736103
+            ],
+            [
+              8.6892773,
+              49.3736114
+            ]
+          ]
+        ]
+      },
+      "id": "way/219672300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219672302",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4/1",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "apartments",
+        "building:levels": "4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6895086,
+              49.3736179
+            ],
+            [
+              8.6894975,
+              49.3737865
+            ],
+            [
+              8.6892662,
+              49.37378
+            ],
+            [
+              8.6892773,
+              49.3736114
+            ],
+            [
+              8.6895086,
+              49.3736179
+            ]
+          ]
+        ]
+      },
+      "id": "way/219672302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410112126",
+        "building": "service",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.689826,
+              49.373772
+            ],
+            [
+              8.6898264,
+              49.3737528
+            ],
+            [
+              8.6898951,
+              49.3737533
+            ],
+            [
+              8.6898947,
+              49.3737724
+            ],
+            [
+              8.689826,
+              49.373772
+            ]
+          ]
+        ]
+      },
+      "id": "way/410112126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/494772316",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "25",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "semidetached_house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:geometry": "DigitalGlobe Standard Imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913977,
+              49.3724661
+            ],
+            [
+              8.6913642,
+              49.3723561
+            ],
+            [
+              8.6914646,
+              49.3723438
+            ],
+            [
+              8.6914967,
+              49.3724536
+            ],
+            [
+              8.6913977,
+              49.3724661
+            ]
+          ]
+        ]
+      },
+      "id": "way/494772316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799155297",
+        "building": "garages",
+        "capacity": "8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6899214,
+              49.3721453
+            ],
+            [
+              8.6899279,
+              49.372025
+            ],
+            [
+              8.6899286,
+              49.3720122
+            ],
+            [
+              8.6899333,
+              49.3719256
+            ],
+            [
+              8.6900174,
+              49.3719275
+            ],
+            [
+              8.6900055,
+              49.3721473
+            ],
+            [
+              8.6899214,
+              49.3721453
+            ]
+          ]
+        ]
+      },
+      "id": "way/799155297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799155298",
+        "building": "garages",
+        "capacity": "7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6908824,
+              49.3721822
+            ],
+            [
+              8.6908874,
+              49.3720575
+            ],
+            [
+              8.6908895,
+              49.3720048
+            ],
+            [
+              8.6909605,
+              49.372006
+            ],
+            [
+              8.6909533,
+              49.3721834
+            ],
+            [
+              8.6908824,
+              49.3721822
+            ]
+          ]
+        ]
+      },
+      "id": "way/799155298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799155299",
+        "building": "garages"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6911955,
+              49.3720171
+            ],
+            [
+              8.6912612,
+              49.372019
+            ],
+            [
+              8.6912603,
+              49.3720324
+            ],
+            [
+              8.6912517,
+              49.3721617
+            ],
+            [
+              8.6912506,
+              49.3721778
+            ],
+            [
+              8.691185,
+              49.372176
+            ],
+            [
+              8.6911955,
+              49.3720171
+            ]
+          ]
+        ]
+      },
+      "id": "way/799155299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799155300",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "16",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "residential",
+        "building:levels": "1",
+        "roof:levels": "2",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6884981,
+              49.3722889
+            ],
+            [
+              8.688498,
+              49.3722371
+            ],
+            [
+              8.6887043,
+              49.3722372
+            ],
+            [
+              8.6887043,
+              49.3722893
+            ],
+            [
+              8.688604,
+              49.3722891
+            ],
+            [
+              8.6884981,
+              49.3722889
+            ]
+          ]
+        ]
+      },
+      "id": "way/799155300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799164112",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "25/1",
+        "addr:postcode": "69126",
+        "addr:street": "Schleifweg",
+        "building": "semidetached_house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6915878,
+              49.3724423
+            ],
+            [
+              8.6914967,
+              49.3724536
+            ],
+            [
+              8.6914646,
+              49.3723438
+            ],
+            [
+              8.6915558,
+              49.3723325
+            ],
+            [
+              8.6915878,
+              49.3724423
+            ]
+          ]
+        ]
+      },
+      "id": "way/799164112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803857862",
+        "building": "carport"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6911286,
+              49.372909
+            ],
+            [
+              8.6911238,
+              49.3728721
+            ],
+            [
+              8.69121,
+              49.3728674
+            ],
+            [
+              8.6912148,
+              49.3729044
+            ],
+            [
+              8.6911286,
+              49.372909
+            ]
+          ]
+        ]
+      },
+      "id": "way/803857862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803857863",
+        "building": "garage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6911188,
+              49.3734787
+            ],
+            [
+              8.6911187,
+              49.3734558
+            ],
+            [
+              8.6911989,
+              49.3734557
+            ],
+            [
+              8.6911991,
+              49.3734785
+            ],
+            [
+              8.6911188,
+              49.3734787
+            ]
+          ]
+        ]
+      },
+      "id": "way/803857863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804444820",
+        "building": "garages"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896408,
+              49.3723262
+            ],
+            [
+              8.6896387,
+              49.3723735
+            ],
+            [
+              8.6894421,
+              49.3723698
+            ],
+            [
+              8.6893972,
+              49.3723689
+            ],
+            [
+              8.6893981,
+              49.3723557
+            ],
+            [
+              8.6893996,
+              49.3723211
+            ],
+            [
+              8.6896408,
+              49.3723262
+            ]
+          ]
+        ]
+      },
+      "id": "way/804444820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/805568299",
+        "building": "service",
+        "power": "substation"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6893981,
+              49.3723557
+            ],
+            [
+              8.6893632,
+              49.3723554
+            ],
+            [
+              8.6893643,
+              49.3722987
+            ],
+            [
+              8.6894,
+              49.372299
+            ],
+            [
+              8.6893996,
+              49.3723211
+            ],
+            [
+              8.6893981,
+              49.3723557
+            ]
+          ]
+        ]
+      },
+      "id": "way/805568299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367296",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.689633,
+              49.3724296
+            ],
+            [
+              8.6894398,
+              49.3724239
+            ],
+            [
+              8.6894421,
+              49.3723698
+            ],
+            [
+              8.6896387,
+              49.3723735
+            ],
+            [
+              8.689633,
+              49.3724296
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367297",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896292,
+              49.3724855
+            ],
+            [
+              8.6894359,
+              49.3724799
+            ],
+            [
+              8.6894398,
+              49.3724239
+            ],
+            [
+              8.689633,
+              49.3724296
+            ],
+            [
+              8.6896292,
+              49.3724855
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367298",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "32",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896253,
+              49.3725414
+            ],
+            [
+              8.689432,
+              49.3725358
+            ],
+            [
+              8.6894359,
+              49.3724799
+            ],
+            [
+              8.6896292,
+              49.3724855
+            ],
+            [
+              8.6896253,
+              49.3725414
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367299",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896215,
+              49.3725973
+            ],
+            [
+              8.6894282,
+              49.3725917
+            ],
+            [
+              8.689432,
+              49.3725358
+            ],
+            [
+              8.6896253,
+              49.3725414
+            ],
+            [
+              8.6896215,
+              49.3725973
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367300",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896176,
+              49.3726533
+            ],
+            [
+              8.6894243,
+              49.3726476
+            ],
+            [
+              8.6894282,
+              49.3725917
+            ],
+            [
+              8.6896215,
+              49.3725973
+            ],
+            [
+              8.6896176,
+              49.3726533
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367301",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896137,
+              49.3727092
+            ],
+            [
+              8.6894205,
+              49.3727035
+            ],
+            [
+              8.6894243,
+              49.3726476
+            ],
+            [
+              8.6896176,
+              49.3726533
+            ],
+            [
+              8.6896137,
+              49.3727092
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367302",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896175,
+              49.3729265
+            ],
+            [
+              8.6894101,
+              49.3729221
+            ],
+            [
+              8.6894131,
+              49.3728628
+            ],
+            [
+              8.6896205,
+              49.3728672
+            ],
+            [
+              8.6896175,
+              49.3729265
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367303",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896145,
+              49.3729858
+            ],
+            [
+              8.6894071,
+              49.3729814
+            ],
+            [
+              8.6894101,
+              49.3729221
+            ],
+            [
+              8.6896175,
+              49.3729265
+            ],
+            [
+              8.6896145,
+              49.3729858
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367304",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896004,
+              49.3731457
+            ],
+            [
+              8.6893892,
+              49.373138
+            ],
+            [
+              8.6893942,
+              49.3730807
+            ],
+            [
+              8.6896053,
+              49.3730884
+            ],
+            [
+              8.6896004,
+              49.3731457
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367305",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6895954,
+              49.3732031
+            ],
+            [
+              8.6893843,
+              49.3731954
+            ],
+            [
+              8.6893892,
+              49.373138
+            ],
+            [
+              8.6896004,
+              49.3731457
+            ],
+            [
+              8.6895954,
+              49.3732031
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/977367306",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "69126",
+        "addr:street": "Christian-Bitter-Straße",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6895905,
+              49.3732605
+            ],
+            [
+              8.6893794,
+              49.3732528
+            ],
+            [
+              8.6893843,
+              49.3731954
+            ],
+            [
+              8.6895954,
+              49.3732031
+            ],
+            [
+              8.6895905,
+              49.3732605
+            ]
+          ]
+        ]
+      },
+      "id": "way/977367306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009727923",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6917905,
+              49.372765
+            ],
+            [
+              8.6917159,
+              49.3727701
+            ],
+            [
+              8.6917193,
+              49.3728098
+            ],
+            [
+              8.6916245,
+              49.3728132
+            ],
+            [
+              8.6916202,
+              49.3727747
+            ],
+            [
+              8.6916106,
+              49.3726874
+            ],
+            [
+              8.6916906,
+              49.3726834
+            ],
+            [
+              8.6916802,
+              49.3726194
+            ],
+            [
+              8.6917698,
+              49.3726131
+            ],
+            [
+              8.6917828,
+              49.3726991
+            ],
+            [
+              8.6917905,
+              49.372765
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009727923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009727924",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6916202,
+              49.3727747
+            ],
+            [
+              8.6915514,
+              49.3727786
+            ],
+            [
+              8.6915558,
+              49.3728171
+            ],
+            [
+              8.6914618,
+              49.3728222
+            ],
+            [
+              8.6914568,
+              49.3727896
+            ],
+            [
+              8.6914435,
+              49.3727032
+            ],
+            [
+              8.691527,
+              49.372697
+            ],
+            [
+              8.6915157,
+              49.3726279
+            ],
+            [
+              8.6916027,
+              49.3726222
+            ],
+            [
+              8.6916106,
+              49.3726874
+            ],
+            [
+              8.6916202,
+              49.3727747
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009727924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009727925",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.691299,
+              49.3728409
+            ],
+            [
+              8.6912929,
+              49.3727999
+            ],
+            [
+              8.6912799,
+              49.3727134
+            ],
+            [
+              8.6913617,
+              49.3727072
+            ],
+            [
+              8.6913504,
+              49.3726426
+            ],
+            [
+              8.6914348,
+              49.3726386
+            ],
+            [
+              8.6914435,
+              49.3727032
+            ],
+            [
+              8.6914568,
+              49.3727896
+            ],
+            [
+              8.69138,
+              49.372795
+            ],
+            [
+              8.6913861,
+              49.3728358
+            ],
+            [
+              8.691299,
+              49.3728409
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009727925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009727926",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6912929,
+              49.3727999
+            ],
+            [
+              8.6912085,
+              49.3728047
+            ],
+            [
+              8.6912129,
+              49.3728421
+            ],
+            [
+              8.6911198,
+              49.3728477
+            ],
+            [
+              8.6911176,
+              49.372833
+            ],
+            [
+              8.6910876,
+              49.3728341
+            ],
+            [
+              8.691071,
+              49.3727219
+            ],
+            [
+              8.6911972,
+              49.3727123
+            ],
+            [
+              8.691185,
+              49.3726494
+            ],
+            [
+              8.6912721,
+              49.3726432
+            ],
+            [
+              8.6912799,
+              49.3727134
+            ],
+            [
+              8.6912929,
+              49.3727999
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009727926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728369",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913234,
+              49.3730687
+            ],
+            [
+              8.6912869,
+              49.373071
+            ],
+            [
+              8.691286,
+              49.3730817
+            ],
+            [
+              8.6912181,
+              49.3730851
+            ],
+            [
+              8.6912138,
+              49.3730653
+            ],
+            [
+              8.6911685,
+              49.3730664
+            ],
+            [
+              8.6911598,
+              49.3729962
+            ],
+            [
+              8.6911824,
+              49.372995
+            ],
+            [
+              8.6911772,
+              49.3729548
+            ],
+            [
+              8.6912695,
+              49.3729486
+            ],
+            [
+              8.6912729,
+              49.3729594
+            ],
+            [
+              8.6913121,
+              49.3729577
+            ],
+            [
+              8.6913163,
+              49.3729991
+            ],
+            [
+              8.6913234,
+              49.3730687
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728370",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6918534,
+              49.3730483
+            ],
+            [
+              8.6918377,
+              49.3729475
+            ],
+            [
+              8.69185,
+              49.3729467
+            ],
+            [
+              8.6918856,
+              49.3729446
+            ],
+            [
+              8.6918803,
+              49.3729157
+            ],
+            [
+              8.6919456,
+              49.3729135
+            ],
+            [
+              8.6919569,
+              49.3730426
+            ],
+            [
+              8.6918652,
+              49.3730477
+            ],
+            [
+              8.6918534,
+              49.3730483
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728371",
+        "addr:city": "Heidelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2/1",
+        "addr:postcode": "69126",
+        "addr:street": "Hermann-Schück-Weg",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6918652,
+              49.3730477
+            ],
+            [
+              8.6918664,
+              49.3730579
+            ],
+            [
+              8.6917679,
+              49.3730651
+            ],
+            [
+              8.6917568,
+              49.3730659
+            ],
+            [
+              8.6917428,
+              49.3729667
+            ],
+            [
+              8.6917509,
+              49.3729661
+            ],
+            [
+              8.6917846,
+              49.3729633
+            ],
+            [
+              8.691782,
+              49.3729327
+            ],
+            [
+              8.6918481,
+              49.3729265
+            ],
+            [
+              8.69185,
+              49.3729467
+            ],
+            [
+              8.6918377,
+              49.3729475
+            ],
+            [
+              8.6918534,
+              49.3730483
+            ],
+            [
+              8.6918652,
+              49.3730477
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728372",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.691661,
+              49.3730795
+            ],
+            [
+              8.6916506,
+              49.3729775
+            ],
+            [
+              8.6916924,
+              49.3729752
+            ],
+            [
+              8.6916854,
+              49.372935
+            ],
+            [
+              8.6917463,
+              49.372931
+            ],
+            [
+              8.6917509,
+              49.3729661
+            ],
+            [
+              8.6917428,
+              49.3729667
+            ],
+            [
+              8.6917568,
+              49.3730659
+            ],
+            [
+              8.6917679,
+              49.3730651
+            ],
+            [
+              8.6917707,
+              49.3730744
+            ],
+            [
+              8.691661,
+              49.3730795
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728373",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6915001,
+              49.3730948
+            ],
+            [
+              8.691499,
+              49.3730861
+            ],
+            [
+              8.6914886,
+              49.3729978
+            ],
+            [
+              8.6915645,
+              49.3729905
+            ],
+            [
+              8.6915558,
+              49.3729463
+            ],
+            [
+              8.6916445,
+              49.3729429
+            ],
+            [
+              8.6916506,
+              49.3729775
+            ],
+            [
+              8.691661,
+              49.3730795
+            ],
+            [
+              8.6916602,
+              49.3730846
+            ],
+            [
+              8.6915001,
+              49.3730948
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728374",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913304,
+              49.3731078
+            ],
+            [
+              8.6913234,
+              49.3730687
+            ],
+            [
+              8.6913163,
+              49.3729991
+            ],
+            [
+              8.6913895,
+              49.3729939
+            ],
+            [
+              8.6913835,
+              49.372952
+            ],
+            [
+              8.6913121,
+              49.3729577
+            ],
+            [
+              8.6913077,
+              49.3729033
+            ],
+            [
+              8.6913852,
+              49.3728993
+            ],
+            [
+              8.6913887,
+              49.3729367
+            ],
+            [
+              8.6914809,
+              49.3729322
+            ],
+            [
+              8.6914886,
+              49.3729978
+            ],
+            [
+              8.691499,
+              49.3730861
+            ],
+            [
+              8.6914087,
+              49.3730925
+            ],
+            [
+              8.6914113,
+              49.3731027
+            ],
+            [
+              8.6913304,
+              49.3731078
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728687",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6919821,
+              49.3733611
+            ],
+            [
+              8.6918969,
+              49.3733633
+            ],
+            [
+              8.6918995,
+              49.3734177
+            ],
+            [
+              8.6918107,
+              49.3734194
+            ],
+            [
+              8.6918091,
+              49.3733667
+            ],
+            [
+              8.6918064,
+              49.3732755
+            ],
+            [
+              8.6918664,
+              49.3732744
+            ],
+            [
+              8.6918664,
+              49.3732336
+            ],
+            [
+              8.6919778,
+              49.3732319
+            ],
+            [
+              8.6919821,
+              49.3733611
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728688",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.691648,
+              49.3734211
+            ],
+            [
+              8.6916464,
+              49.373365
+            ],
+            [
+              8.6916436,
+              49.3732687
+            ],
+            [
+              8.6917037,
+              49.3732659
+            ],
+            [
+              8.6917019,
+              49.3732285
+            ],
+            [
+              8.6918046,
+              49.3732279
+            ],
+            [
+              8.6918064,
+              49.3732755
+            ],
+            [
+              8.6918091,
+              49.3733667
+            ],
+            [
+              8.6917315,
+              49.3733684
+            ],
+            [
+              8.6917341,
+              49.3734194
+            ],
+            [
+              8.691648,
+              49.3734211
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728689",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6916464,
+              49.373365
+            ],
+            [
+              8.6915618,
+              49.3733673
+            ],
+            [
+              8.6915671,
+              49.3734206
+            ],
+            [
+              8.6914827,
+              49.3734223
+            ],
+            [
+              8.6914814,
+              49.373382
+            ],
+            [
+              8.6914783,
+              49.3732846
+            ],
+            [
+              8.6915357,
+              49.3732823
+            ],
+            [
+              8.6915323,
+              49.3732302
+            ],
+            [
+              8.6916402,
+              49.3732285
+            ],
+            [
+              8.6916436,
+              49.3732687
+            ],
+            [
+              8.6916464,
+              49.373365
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728690",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913991,
+              49.3734313
+            ],
+            [
+              8.6913225,
+              49.373433
+            ],
+            [
+              8.6913192,
+              49.3733792
+            ],
+            [
+              8.6913148,
+              49.3733083
+            ],
+            [
+              8.6913138,
+              49.3732931
+            ],
+            [
+              8.6913521,
+              49.3732903
+            ],
+            [
+              8.6913704,
+              49.3732585
+            ],
+            [
+              8.6913678,
+              49.3732489
+            ],
+            [
+              8.6914705,
+              49.3732444
+            ],
+            [
+              8.6914783,
+              49.3732846
+            ],
+            [
+              8.6914814,
+              49.373382
+            ],
+            [
+              8.6913974,
+              49.3733832
+            ],
+            [
+              8.6913991,
+              49.3734313
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009728691",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6911267,
+              49.3734364
+            ],
+            [
+              8.6911241,
+              49.3733894
+            ],
+            [
+              8.6911433,
+              49.3733888
+            ],
+            [
+              8.6911441,
+              49.3733203
+            ],
+            [
+              8.6912425,
+              49.3733186
+            ],
+            [
+              8.6912407,
+              49.3733095
+            ],
+            [
+              8.6913148,
+              49.3733083
+            ],
+            [
+              8.6913192,
+              49.3733792
+            ],
+            [
+              8.6912181,
+              49.3733803
+            ],
+            [
+              8.6912181,
+              49.3734347
+            ],
+            [
+              8.6911267,
+              49.3734364
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009728691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009729588",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6917942,
+              49.3736597
+            ],
+            [
+              8.6917933,
+              49.3736473
+            ],
+            [
+              8.6917921,
+              49.3736244
+            ],
+            [
+              8.6917881,
+              49.3735492
+            ],
+            [
+              8.6919865,
+              49.3735469
+            ],
+            [
+              8.6919909,
+              49.3736563
+            ],
+            [
+              8.6917942,
+              49.3736597
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009729588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009729589",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6917477,
+              49.3735391
+            ],
+            [
+              8.6917497,
+              49.3736253
+            ],
+            [
+              8.6917509,
+              49.3736482
+            ],
+            [
+              8.6915605,
+              49.3736506
+            ],
+            [
+              8.6915582,
+              49.3735574
+            ],
+            [
+              8.6915567,
+              49.3735414
+            ],
+            [
+              8.6917477,
+              49.3735391
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009729589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009729590",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6915582,
+              49.3735574
+            ],
+            [
+              8.6915605,
+              49.3736506
+            ],
+            [
+              8.6915615,
+              49.3736929
+            ],
+            [
+              8.6914929,
+              49.3736937
+            ],
+            [
+              8.6914923,
+              49.3736698
+            ],
+            [
+              8.6914896,
+              49.3735582
+            ],
+            [
+              8.6915582,
+              49.3735574
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009729590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009729591",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913306,
+              49.3736706
+            ],
+            [
+              8.6913278,
+              49.3735611
+            ],
+            [
+              8.6914896,
+              49.3735582
+            ],
+            [
+              8.6914923,
+              49.3736698
+            ],
+            [
+              8.6913306,
+              49.3736706
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009729591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1009729592",
+        "building": "terrace",
+        "building:levels": "1",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913264,
+              49.3735087
+            ],
+            [
+              8.6913278,
+              49.3735611
+            ],
+            [
+              8.6913306,
+              49.3736706
+            ],
+            [
+              8.6912313,
+              49.3736717
+            ],
+            [
+              8.6912319,
+              49.3736988
+            ],
+            [
+              8.6911485,
+              49.3736997
+            ],
+            [
+              8.6911479,
+              49.3736765
+            ],
+            [
+              8.6911244,
+              49.3736767
+            ],
+            [
+              8.6911201,
+              49.3735109
+            ],
+            [
+              8.6913264,
+              49.3735087
+            ]
+          ]
+        ]
+      },
+      "id": "way/1009729592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1010284276",
+        "building": "garage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6917509,
+              49.3736482
+            ],
+            [
+              8.6917497,
+              49.3736253
+            ],
+            [
+              8.6917921,
+              49.3736244
+            ],
+            [
+              8.6917933,
+              49.3736473
+            ],
+            [
+              8.6917509,
+              49.3736482
+            ]
+          ]
+        ]
+      },
+      "id": "way/1010284276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1010284935",
+        "building": "garage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6909417,
+              49.3724269
+            ],
+            [
+              8.6909453,
+              49.3723758
+            ],
+            [
+              8.6909456,
+              49.3723696
+            ],
+            [
+              8.6909985,
+              49.3723721
+            ],
+            [
+              8.6910039,
+              49.3724295
+            ],
+            [
+              8.6909417,
+              49.3724269
+            ]
+          ]
+        ]
+      },
+      "id": "way/1010284935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897741",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6916882,
+              49.3721117
+            ],
+            [
+              8.6916965,
+              49.3719983
+            ],
+            [
+              8.6916976,
+              49.3719842
+            ],
+            [
+              8.6917887,
+              49.3719877
+            ],
+            [
+              8.6917767,
+              49.3721144
+            ],
+            [
+              8.6916882,
+              49.3721117
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897742",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6916868,
+              49.3721283
+            ],
+            [
+              8.6916023,
+              49.3721248
+            ],
+            [
+              8.6916132,
+              49.3720079
+            ],
+            [
+              8.6916144,
+              49.3719947
+            ],
+            [
+              8.6916965,
+              49.3719983
+            ],
+            [
+              8.6916882,
+              49.3721117
+            ],
+            [
+              8.6916868,
+              49.3721283
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897743",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6915178,
+              49.3721327
+            ],
+            [
+              8.691528,
+              49.3720133
+            ],
+            [
+              8.6915286,
+              49.3720061
+            ],
+            [
+              8.6916132,
+              49.3720079
+            ],
+            [
+              8.6916023,
+              49.3721248
+            ],
+            [
+              8.6916023,
+              49.3721353
+            ],
+            [
+              8.6915178,
+              49.3721327
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897744",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6914307,
+              49.3721423
+            ],
+            [
+              8.6914401,
+              49.3720255
+            ],
+            [
+              8.6914414,
+              49.3720096
+            ],
+            [
+              8.691528,
+              49.3720133
+            ],
+            [
+              8.6915178,
+              49.3721327
+            ],
+            [
+              8.6915178,
+              49.3721458
+            ],
+            [
+              8.6914307,
+              49.3721423
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897745",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6913462,
+              49.3721519
+            ],
+            [
+              8.6913545,
+              49.3720368
+            ],
+            [
+              8.6913556,
+              49.3720218
+            ],
+            [
+              8.6914401,
+              49.3720255
+            ],
+            [
+              8.6914307,
+              49.3721423
+            ],
+            [
+              8.6914293,
+              49.3721537
+            ],
+            [
+              8.6913462,
+              49.3721519
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897746",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6912517,
+              49.3721617
+            ],
+            [
+              8.6912603,
+              49.3720324
+            ],
+            [
+              8.6913545,
+              49.3720368
+            ],
+            [
+              8.6913462,
+              49.3721519
+            ],
+            [
+              8.6913448,
+              49.3721641
+            ],
+            [
+              8.6912517,
+              49.3721617
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897747",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6907796,
+              49.3721836
+            ],
+            [
+              8.6906931,
+              49.3721807
+            ],
+            [
+              8.6906998,
+              49.3720506
+            ],
+            [
+              8.6907903,
+              49.3720546
+            ],
+            [
+              8.6907796,
+              49.3721836
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897748",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6906931,
+              49.3721807
+            ],
+            [
+              8.6905925,
+              49.3721772
+            ],
+            [
+              8.6906005,
+              49.3720497
+            ],
+            [
+              8.6906998,
+              49.3720506
+            ],
+            [
+              8.6906931,
+              49.3721807
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897749",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6904986,
+              49.3721746
+            ],
+            [
+              8.6904986,
+              49.3721656
+            ],
+            [
+              8.6905072,
+              49.3720454
+            ],
+            [
+              8.6906005,
+              49.3720497
+            ],
+            [
+              8.6905925,
+              49.3721772
+            ],
+            [
+              8.6904986,
+              49.3721746
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897750",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6904986,
+              49.3721656
+            ],
+            [
+              8.6904119,
+              49.372163
+            ],
+            [
+              8.6904211,
+              49.3720349
+            ],
+            [
+              8.6905078,
+              49.3720376
+            ],
+            [
+              8.6905072,
+              49.3720454
+            ],
+            [
+              8.6904986,
+              49.3721656
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897751",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6902129,
+              49.372158
+            ],
+            [
+              8.6902223,
+              49.3720305
+            ],
+            [
+              8.6903229,
+              49.3720314
+            ],
+            [
+              8.6903109,
+              49.3721606
+            ],
+            [
+              8.6902129,
+              49.372158
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897752",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6903109,
+              49.3721606
+            ],
+            [
+              8.6903229,
+              49.3720314
+            ],
+            [
+              8.6904211,
+              49.3720349
+            ],
+            [
+              8.6904119,
+              49.372163
+            ],
+            [
+              8.6903109,
+              49.3721606
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897753",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6894016,
+              49.3721457
+            ],
+            [
+              8.6894097,
+              49.3720103
+            ],
+            [
+              8.6894941,
+              49.3720131
+            ],
+            [
+              8.6894847,
+              49.3721484
+            ],
+            [
+              8.6894016,
+              49.3721457
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897754",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6894847,
+              49.3721484
+            ],
+            [
+              8.6894941,
+              49.3720131
+            ],
+            [
+              8.6895826,
+              49.3720148
+            ],
+            [
+              8.6895706,
+              49.372151
+            ],
+            [
+              8.6894847,
+              49.3721484
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897755",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6895706,
+              49.372151
+            ],
+            [
+              8.6895826,
+              49.3720148
+            ],
+            [
+              8.6896698,
+              49.3720157
+            ],
+            [
+              8.6896683,
+              49.3720286
+            ],
+            [
+              8.6896545,
+              49.3721466
+            ],
+            [
+              8.6896537,
+              49.3721537
+            ],
+            [
+              8.6895706,
+              49.372151
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897756",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6896545,
+              49.3721466
+            ],
+            [
+              8.6896683,
+              49.3720286
+            ],
+            [
+              8.6897556,
+              49.3720314
+            ],
+            [
+              8.6897436,
+              49.3721502
+            ],
+            [
+              8.6896545,
+              49.3721466
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897757",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6897436,
+              49.3721502
+            ],
+            [
+              8.6897556,
+              49.3720314
+            ],
+            [
+              8.6898395,
+              49.3720331
+            ],
+            [
+              8.6898321,
+              49.3721528
+            ],
+            [
+              8.6897436,
+              49.3721502
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897758",
+        "building": "terrace",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6898321,
+              49.3721528
+            ],
+            [
+              8.6898395,
+              49.3720331
+            ],
+            [
+              8.6898401,
+              49.3720227
+            ],
+            [
+              8.6899279,
+              49.372025
+            ],
+            [
+              8.6899214,
+              49.3721453
+            ],
+            [
+              8.6899215,
+              49.3721551
+            ],
+            [
+              8.6898321,
+              49.3721528
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897759",
+        "building": "apartments",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6885111,
+              49.3721179
+            ],
+            [
+              8.6885205,
+              49.3719764
+            ],
+            [
+              8.6886347,
+              49.3719807
+            ],
+            [
+              8.688727,
+              49.3719842
+            ],
+            [
+              8.6887265,
+              49.3719905
+            ],
+            [
+              8.6887149,
+              49.3721231
+            ],
+            [
+              8.6885111,
+              49.3721179
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018897760",
+        "building": "house",
+        "building:levels": "2",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6887149,
+              49.3721231
+            ],
+            [
+              8.6887265,
+              49.3719905
+            ],
+            [
+              8.6888155,
+              49.3719947
+            ],
+            [
+              8.6888144,
+              49.3720032
+            ],
+            [
+              8.6888008,
+              49.3721248
+            ],
+            [
+              8.6887149,
+              49.3721231
+            ]
+          ]
+        ]
+      },
+      "id": "way/1018897760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175544641",
+        "building": "garage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6918511,
+              49.37239
+            ],
+            [
+              8.6918328,
+              49.3723254
+            ],
+            [
+              8.6918937,
+              49.3723181
+            ],
+            [
+              8.6919119,
+              49.3723827
+            ],
+            [
+              8.6918511,
+              49.37239
+            ]
+          ]
+        ]
+      },
+      "id": "way/1175544641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1454544796",
+        "building": "garages",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6894535,
+              49.3733651
+            ],
+            [
+              8.6894539,
+              49.373313
+            ],
+            [
+              8.6895723,
+              49.3733174
+            ],
+            [
+              8.6895707,
+              49.3733669
+            ],
+            [
+              8.6894535,
+              49.3733651
+            ]
+          ]
+        ]
+      },
+      "id": "way/1454544796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1454544797",
+        "building": "garages",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6892439,
+              49.3733579
+            ],
+            [
+              8.6892481,
+              49.3733067
+            ],
+            [
+              8.6893745,
+              49.3733101
+            ],
+            [
+              8.6894096,
+              49.3733114
+            ],
+            [
+              8.6894052,
+              49.3733615
+            ],
+            [
+              8.6892439,
+              49.3733579
+            ]
+          ]
+        ]
+      },
+      "id": "way/1454544797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1482937564",
+        "building": "garage"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.689034,
+              49.3724609
+            ],
+            [
+              8.6890357,
+              49.3724117
+            ],
+            [
+              8.6890579,
+              49.3724119
+            ],
+            [
+              8.6891649,
+              49.372415
+            ],
+            [
+              8.6891621,
+              49.3724609
+            ],
+            [
+              8.689034,
+              49.3724609
+            ]
+          ]
+        ]
+      },
+      "id": "way/1482937564"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-20T14:23:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578156",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4683598,
+              48.9730209
+            ],
+            [
+              8.4684266,
+              48.9728682
+            ],
+            [
+              8.4684554,
+              48.9728736
+            ],
+            [
+              8.4685965,
+              48.9729002
+            ],
+            [
+              8.4685297,
+              48.9730529
+            ],
+            [
+              8.4685037,
+              48.973048
+            ],
+            [
+              8.4683598,
+              48.9730209
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578161",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4685466,
+              48.972728
+            ],
+            [
+              8.4686168,
+              48.9725676
+            ],
+            [
+              8.4687866,
+              48.9725996
+            ],
+            [
+              8.4687165,
+              48.97276
+            ],
+            [
+              8.4686907,
+              48.9727552
+            ],
+            [
+              8.4685466,
+              48.972728
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578176",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4677182,
+              48.9728845
+            ],
+            [
+              8.4677898,
+              48.972726
+            ],
+            [
+              8.4678168,
+              48.9727313
+            ],
+            [
+              8.4679426,
+              48.9727558
+            ],
+            [
+              8.467871,
+              48.9729143
+            ],
+            [
+              8.4678467,
+              48.9729095
+            ],
+            [
+              8.4677182,
+              48.9728845
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578178",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4682645,
+              48.9731851
+            ],
+            [
+              8.4683381,
+              48.9730168
+            ],
+            [
+              8.4683598,
+              48.9730209
+            ],
+            [
+              8.4685037,
+              48.973048
+            ],
+            [
+              8.4684301,
+              48.9732163
+            ],
+            [
+              8.4682645,
+              48.9731851
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578187",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.467621,
+              48.9730396
+            ],
+            [
+              8.4676932,
+              48.9728797
+            ],
+            [
+              8.4677182,
+              48.9728845
+            ],
+            [
+              8.4678467,
+              48.9729095
+            ],
+            [
+              8.4677744,
+              48.9730695
+            ],
+            [
+              8.467621,
+              48.9730396
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578190",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4685212,
+              48.9727232
+            ],
+            [
+              8.4685466,
+              48.972728
+            ],
+            [
+              8.4686907,
+              48.9727552
+            ],
+            [
+              8.4686249,
+              48.9729055
+            ],
+            [
+              8.4685965,
+              48.9729002
+            ],
+            [
+              8.4684554,
+              48.9728736
+            ],
+            [
+              8.4685212,
+              48.9727232
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578193",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4678168,
+              48.9727313
+            ],
+            [
+              8.4678884,
+              48.972573
+            ],
+            [
+              8.4679134,
+              48.9725778
+            ],
+            [
+              8.4680409,
+              48.9726026
+            ],
+            [
+              8.4679694,
+              48.972761
+            ],
+            [
+              8.4679426,
+              48.9727558
+            ],
+            [
+              8.4678168,
+              48.9727313
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102578195",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "76228",
+        "addr:street": "Fridtjof-Nansen-Straße",
+        "addr:suburb": "Bergwald",
+        "building": "apartments",
+        "building:levels": "4",
+        "roof:levels": "0",
+        "source": "LA-KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4679879,
+              48.972413
+            ],
+            [
+              8.4681391,
+              48.9724424
+            ],
+            [
+              8.4680646,
+              48.9726073
+            ],
+            [
+              8.4680409,
+              48.9726026
+            ],
+            [
+              8.4679134,
+              48.9725778
+            ],
+            [
+              8.4679879,
+              48.972413
+            ]
+          ]
+        ]
+      },
+      "id": "way/102578195"
+    }
+  ]
+}
