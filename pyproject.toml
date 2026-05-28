@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GIS-AWBEM"
+version = "0.1.0"
+description = "GIS-based Automated White-Box Building Energy Modeling"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+
+keywords = [
+  "building energy modeling",
+  "GIS",
+  "EnergyPlus",
+  "urban energy",
+  "district energy",
+  "HVAC",
+  "white-box modeling"
+]
+
+dependencies = [
+  "numpy",
+  "pandas",
+  "utm",
+  "eppy",
+  "sympy"
+]
+
+[project.urls]
+Homepage = "https://github.com/KIT-IAI/GIS-AWBEM"
+
+[[project.authors]]
+name = "Erfan Tajalli-Ardekani, Institute for Automation and Applied Informatics (IAI), Karlsruhe Institute of Technology (KIT)"
+email = "erfan.tajalli-ardekani@kit.edu"
+
+[tool.setuptools]
+package-dir = {"" = "GIS-AWBEM/src"}
+
+[tool.setuptools.packages.find]
+where = ["GIS-AWBEM/src"]
