@@ -2,17 +2,25 @@ import numpy as np
 from sympy import Plane, Polygon , Point3D, Point2D
 
 def distance(p1,p2):
+    """
+    Calculate the distance between two 3D points.
+    """
     dx = p1[0] - p2[0]
     dy = p1[1] - p2[1]
     dz = p1[2] - p2[2]
-    d = np.sqrt(dx**2 + dy**2 + dz**2)
-    return d
+    distance = np.sqrt(dx**2 + dy**2 + dz**2)
+    return distance
 
 def P2A(point):
-    # Point3D to numpy array
+    """
+    Convert a Point3D to a numpy array.
+    """
     return np.array(point).astype(float)
 
 def Centroid(points):
+    """
+    Calculate the centroid of a set of 3D points.
+    """
     CPx = np.mean(points[:,0])
     CPy = np.mean(points[:,1])
     CPz = np.mean(points[:,2])
@@ -20,15 +28,11 @@ def Centroid(points):
     return CP
 
 
-def get_polygon_orientaion(vertices: np.ndarray) -> str:
+def get_polygon_orientaion(vertices):
     """
-    Determines polygon winding order from an (N,2) NumPy array.
-
-    Returns:
-        'CCW'        Counter-clockwise
-        'CW'         Clockwise
-        'DEGENERATE' Collinear / zero area
+    Determine the orientation of a polygon defined by its vertices.
     """
+    
     vertices = np.asarray(vertices, dtype=np.float64)
 
     if vertices.ndim != 2 or vertices.shape[1] != 2:
@@ -55,14 +59,14 @@ def get_polygon_orientaion(vertices: np.ndarray) -> str:
         return "DEGENERATE"
 
 
-# wall_vertices = wall_dict['Wall_1']
 def generate_window_vertices(wall_vertices, WWR):
-    
+    """
+    Generate window vertices for a given wall and window-to-wall ratio (WWR).
+    """
     # assumptions:
     #     aspect ratio of wall and window are equal
     #     center points of wall and window are the same
     #     vertices are already sorted
-    
 
     if wall_vertices[0,2] == wall_vertices[1,2]:
         L_hor = distance(wall_vertices[0], wall_vertices[1])
@@ -70,7 +74,6 @@ def generate_window_vertices(wall_vertices, WWR):
     else:
         L_ver = distance(wall_vertices[0], wall_vertices[1])
         L_hor = distance(wall_vertices[0], wall_vertices[-1])
-
     
     # angle between the wall and the xz plane
     xz_plane = Plane(Point3D(0,0,0), Point3D(1,0,0), Point3D(0,0,1))
@@ -79,13 +82,11 @@ def generate_window_vertices(wall_vertices, WWR):
     pi_rad = np.pi 
     if theta > pi_rad/2: theta = pi_rad - theta
     
-    
     # Center vertice
     CP = Centroid(wall_vertices)
     
     # Move the points: relative (to the origin) vertices
     ver_rel = wall_vertices - CP
-    
     
     # rotation around z axis. x-axis will be coplanar. y-axis will be normal vector
     r = np.sqrt(ver_rel[:,0]**2 + ver_rel[:,1]**2)
@@ -118,20 +119,7 @@ def generate_window_vertices(wall_vertices, WWR):
 
 def sort_CCW_wall(points, floor):
     """
-    Sort a vertical wall polygon counter-clockwise (CCW) such that its normal
-    points outward of the building footprint defined by `floor`.
-
-    Parameters
-    ----------
-    points : (N,3) array-like
-        Coplanar convex wall vertices (usually 4 for LOD1).
-    floor : (M,3) array-like
-        Building footprint polygon.
-
-    Returns
-    -------
-    (N,3) ndarray
-        CCW-ordered wall vertices with outward facing normal.
+    Sort wall vertices in counter-clockwise order as viewed from outside the building.
     """
 
     # Convert to numpy arrays
@@ -186,4 +174,3 @@ def sort_CCW_wall(points, floor):
         sorted_P = sorted_P[::-1]
 
     return sorted_P
-

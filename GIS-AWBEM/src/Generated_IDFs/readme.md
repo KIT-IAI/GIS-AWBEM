@@ -1,1 +1,0 @@
-Directory containing the generated IDF files
