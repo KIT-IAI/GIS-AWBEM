@@ -8,7 +8,6 @@ def execute():
     
     # Manage paths
     path_file = os.path.dirname(os.path.realpath(__file__))
-    path_src = os.path.realpath(os.path.join(path_file, "..", "..", "GIS-AWBEM", "src", "GIS-AWBEM")) + "\\"
     path_input = os.path.realpath(os.path.join(path_file, "..", "..", "GIS-AWBEM", "Inputs")) + "\\"
     
     # Define enrichment dictionary
@@ -22,7 +21,7 @@ def execute():
 
     # District general configuration
     config = {
-        "geo_file" : "Heidelberg.geojson",
+        "geo_file" : "Bergwald_truncated.geojson",
         "weather_file": "Mannheim_01975.epw",
         "IG_file" : "Internal gain profiles.xlsx",
         "enrich" : enrich,
@@ -30,27 +29,28 @@ def execute():
         }
     
     
-    # -------- Step 1: District configuration --------
+    # -------- Step 1: Import the HVAC module --------
     # import the specific HVAC type moodule
     module = importlib.import_module(f"GIS_AWBEM.Gen_IDF_{config['HVAC_type']}")
-
+    
+    
+    # -------- Step 2: IDF generation --------
     # Configure district IDF generation module
     DistIDF = module.GenIDF(*list(config.values()))
     
-    # -------- Step 2: IDF generation --------
     # Generate EnergyPlus IDFs for all district buidlings. Note: this step takes time depending on the distrtict size
-    DistIDF.generate(path_src=path_src)
+    DistIDF.generate(path_file=path_file)
     
     
     # -------- Step 3: Simulate district buildings providing a weather data --------
-    # Provide weather data (.epw) and run all buildings in the district
+    # Provide weather data (.epw)
     epw_file = os.path.join(path_input, f"{config['weather_file']}")
     
     # IDF stored directory
-    idf_dir = os.path.join(path_src, DistIDF.HVAC_type, "Generated_IDFs")
+    idf_dir = os.path.join(path_file, DistIDF.HVAC_type, "Generated_IDFs")
     
     # Output dir
-    output_dir = os.path.join(path_src, DistIDF.HVAC_type, "Results")
+    output_dir = os.path.join(path_file, DistIDF.HVAC_type, "Results")
     
     # Run all buildings in the district. Note: this step might take a while depending on the distrtict size
     simulate_district(idf_dir, epw_file, output_dir)
