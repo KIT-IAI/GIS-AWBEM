@@ -28,21 +28,73 @@ GIS-AWBEM was developed to address these limitations by:
 
 # Workflow
 
-<details>
-
-<summary><strong>GIS-AWBEM Workflow</strong></summary>
-
 <img src="img/Workflow.svg">
 
-</details>
+
+---
+
+# Repository Structure
+
+```
+GIS-AWBEM/
+├── LICENSE.md                          # MIT license
+├── README.md                           # Project overview and installation
+├── pyproject.toml                      # Python package configuration
+│
+├── img/
+│   └── Workflow.svg                    # Framework pipeline diagram
+│
+├── examples/
+│   ├── Example 1/
+│   │   └── run_example1.py             # Demo run script (single building)
+│   └── Example 2/
+│       └── run_example2.py             # Demo run script (district)
+│
+├── GIS-AWBEM/                          # Core framework package
+│   ├── src/
+│   │   └── GIS_AWBEM/
+│   │       ├── __init__.py
+│   │       ├── Run.py                  # Main entry point
+│   │       ├── pre_process.py          # GIS parsing & geometry construction
+│   │       ├── EP.py                   # EnergyPlus interface
+│   │       ├── Gen_IDF_IdealHVAC.py    # IDF generator — ideal HVAC system
+│   │       ├── Gen_IDF_Boiler_DXcoil.py# IDF generator — boiler + DX coil
+│   │       ├── Gen_IDF_PTHP.py         # IDF generator — packaged terminal heat pump
+│   │       ├── Simulate.py             # Simulation runner (district loop)
+│   │       ├── post_process.py         # Results extraction & processing
+│   │       └── utilities.py            # Shared helper functions
+│   └── readme.md
+│
+└── GIS-AWBEM/Inputs/                   # Input data files
+    ├── Bergwald.geojson                 # Example GIS footprint data
+    ├── Bergwald_truncated.geojson       # Truncated version of above
+    ├── Bergwald_enrich.csv              # Enrichment attributes for Bergwald
+    ├── Heidelberg.geojson               # GIS footprint data — Heidelberg
+    ├── Tabula_Uvalues.csv               # TABULA U-values reference table
+    ├── Internal gain profiles.xlsx      # Occupancy & internal gain schedules
+    ├── Mannheim_04177.epw               # EnergyPlus weather file — Mannheim
+    ├── Rheinstetten_04177.epw           # EnergyPlus weather file — Rheinstetten
+    │
+    └── HUB4LCA/                        # Building envelope data (HUB4LCA database)
+        │                               # Keyed by: use type / climate zone /
+        │                               # construction period / construction type
+        ├── Residential/
+        │   ├── AB/                     # Apartment blocks       (41 .xlsx files)
+        │   ├── MFH/                    # Multi-family houses    (444 .xlsx files)
+        │   └── SFH/                    # Single-family houses   (468 .xlsx files)
+        ├── Culture/                    # (2 .xlsx files)
+        ├── Education/                  # (2 .xlsx files)
+        ├── Health/                     # (1 .xlsx file)
+        ├── Hospitality/                # (9 .xlsx files)
+        ├── Industrial/                 # (1 .xlsx file)
+        ├── Office/                     # (4 .xlsx files)
+        └── Retail/                     # (5 .xlsx files)
+```
+
 
 ---
 
 # Getting Started
-
-<details>
-
-<summary><strong>Installation</strong></summary>
 
 Clone the repository:
 
@@ -56,7 +108,6 @@ Install the package in editable mode:
 pip install -e GIS-AWBEM
 ```
 
-</details>
 
 ---
 
