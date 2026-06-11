@@ -368,6 +368,7 @@ Please refer to **Example 2** for a minimum-data simulation workflow.
 - utm
 - eppy
 - sympy
+- openpyxl
 
 ## Energy Simulator
 
