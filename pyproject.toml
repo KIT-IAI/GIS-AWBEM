@@ -25,7 +25,8 @@ dependencies = [
   "pandas",
   "utm",
   "eppy",
-  "sympy"
+  "sympy",
+  "openpyxl"
 ]
 
 [project.urls]
